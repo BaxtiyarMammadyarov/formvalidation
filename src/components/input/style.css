@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+
+.divClass  input {
+    width: 60%;
+    margin: 5px;
+}
+
+
+
+
+.divClass{
+   display: inline-block;
+   width: 100%;
+}
+
+.divClass label{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+   padding: 3px;
+    border: 1px solid floralwhite;
+    color: black;
+    text-align: center;
+    
+background-color: azure;
+
+}
+.btn{
+    display: inline;
+    margin: 10px;
+    width: 70%;
+}
+.red{
+    background-color: antiquewhite;
+    color: brown;
+}

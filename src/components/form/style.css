@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+}
+.form{
+    /* width: 400px;
+    margin: auto;
+    margin-top: 100px; */
+}
+.form h3{
+    background-color: aqua;
+    padding: 20px;
+
+}
+.inputCom,.inputCom  input {
+background-color: azure;
+
+
+
+}
+.inputCom  input {
+    width: 60%;
+    margin: 5px;
+}
+.checkbox{
+    transform: scale(1.5);
+}
+
+
+.inputCom label{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+   padding: 3px;
+    border: 1px solid floralwhite;
+    color: black;
+    text-align: center;
+    
+background-color: azure;
+
+}
+.inputCom label span{
+    
+background-color: azure;
+   
+    
+    margin: 10px;
+    border: 1px solid floralwhite;
+    color: black;
+ 
+    text-align: left;
+   
+
+}
+.divClass{
+   display: inline-block;
+   width: 100%;
+}
+
+.divClass label{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+   padding: 3px;
+    border: 1px solid floralwhite;
+    color: black;
+    text-align: center;
+    
+background-color: azure;
+
+}
+.btn{
+    display: inline;
+    margin: 10px;
+    width: 70%;
+}
+*{
+    box-sizing: border-box;
+}
+
+.btnDiv{
+   display: flex;
+   justify-content: space-between;
+}
+
+.btn{
+    width: 100%;
+    margin: 2px;
+}
+.red{
+    background-color: antiquewhite;
+    color: brown;
+}

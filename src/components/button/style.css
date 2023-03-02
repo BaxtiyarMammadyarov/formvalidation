@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+.btnDiv{
+   display: flex;
+   justify-content: space-between;
+}
+
+.btn{
+    width: 100%;
+    margin: 2px;
+}
